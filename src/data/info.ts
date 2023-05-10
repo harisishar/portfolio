@@ -1,36 +1,39 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
-  jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  baseUrl: "https://https://harisishar.netlify.app/",
+  name: "Haris Ishar",
+  jobDescription: "Business Technology Manager",
+  about: `Transformed IDW into Malaysia's pioneering Interior Design Technology company 
+  by building a cross-functional team, developing the IDW Super App, streamlining the design process, improving communication, and continuously monitoring and improving the app's success.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Business Technology Manager",
+      location: "IDW Design & Build, Shah Alam",
+      startDate: "JULY 2021",
+      endDate: "PRESENT",
       description: [
         "- Developing screens and UI components for the web application using React and Tailwind.",
         "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Conduct research and analysis to understand the current technology landscape in interior design and identify opportunities for IDW to differentiate itself.",
+        "- Build a cross-functional team with expertise in technology, design, and project management to lead the development of the IDW Super App.",
+        "- Develop a project plan that includes clear milestones, timelines, and budget to ensure the app is delivered on time and within budget.",
+        "- Streamline the design process by integrating project management, directory, and e-commerce capabilities into a single platform, reducing the time team workflow from 172 days to 65 days.",
+        "- Implement a robust information transfer system to ensure all team members and clients have access to the latest information and designs.",
+        "- Improve communication by integrating all communication channels (WhatsApp, Facebook, and Instagram, Website) into one platform.",
+        "- Continuously monitor and evaluate the success of the IDW Super App, making improvements as needed. Note: This is a high-level overview and further details would need to be developed based on the specific requirements and challenges of IDW.",
+        "- Segmentation audience"
+
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Web Developer",
+      location: "IDW Design & Build, Shah Alam",
+      startDate: "FEBRUARY 2021",
+      endDate: "JULY 2021",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
+        "✓ Maintain web page: idw.design",
         "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
         "✓ Help and training of other colleagues",
         "✓ Others tasks connected to the nature of the job",
