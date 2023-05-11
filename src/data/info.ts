@@ -2,8 +2,7 @@ export const info = {
   baseUrl: "https://https://harisishar.netlify.app/",
   name: "Haris Ishar",
   jobDescription: "Business Technology Manager",
-  about: `Transformed IDW into Malaysia's pioneering Interior Design Technology company 
-  by building a cross-functional team, developing the IDW Super App, streamlining the design process, improving communication, and continuously monitoring and improving the app's success.
+  about: `A man who loves technology, business and its implementation that improve the overall growth for a company's greater good. Focusing on automating every workflow possible to increase company productivity and efficiency. In the meantime giving back, the most value to the community.
   `,
 
   experience: [
@@ -13,16 +12,14 @@ export const info = {
       startDate: "JULY 2021",
       endDate: "PRESENT",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
-        "- Conduct research and analysis to understand the current technology landscape in interior design and identify opportunities for IDW to differentiate itself.",
-        "- Build a cross-functional team with expertise in technology, design, and project management to lead the development of the IDW Super App.",
-        "- Develop a project plan that includes clear milestones, timelines, and budget to ensure the app is delivered on time and within budget.",
-        "- Streamline the design process by integrating project management, directory, and e-commerce capabilities into a single platform, reducing the time team workflow from 172 days to 65 days.",
-        "- Implement a robust information transfer system to ensure all team members and clients have access to the latest information and designs.",
-        "- Improve communication by integrating all communication channels (WhatsApp, Facebook, and Instagram, Website) into one platform.",
-        "- Continuously monitor and evaluate the success of the IDW Super App, making improvements as needed. Note: This is a high-level overview and further details would need to be developed based on the specific requirements and challenges of IDW.",
-        "- Segmentation audience"
+        "• Conduct research and analysis to understand the current technology landscape in interior design and identify opportunities for IDW to differentiate itself.",
+        "• Build a cross•functional team with expertise in technology, design, and project management to lead the development of the IDW Super App.",
+        "• Lead a project plan that includes clear milestones, timelines, and budget to ensure the app is delivered on time and within budget.",
+        "• Streamline the design process by integrating project management, directory, and e-commerce capabilities into a single platform, optimizing and reducing team workflow to 62.9% (175 to 65 days).",
+        "• Implement a robust information transfer system to ensure all team members and clients have access to the latest information and designs.",
+        "• Improve communication by integrating all communication channels (WhatsApp, Facebook, and Instagram, Website) into one platform.",
+        "• Continuously monitor and evaluate the success of the IDW Super App, making improvements as needed. Note: This is a high-level overview and further details would need to be developed based on the specific requirements and challenges of IDW.",
+        "• Segmentation audience and analyst successful client pattern"
 
       ],
     },
@@ -33,12 +30,25 @@ export const info = {
       startDate: "FEBRUARY 2021",
       endDate: "JULY 2021",
       description: [
-        "✓ Maintain web page: idw.design",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "• Centralize all the database from all platform",
+        "• Develop and maintain web page idw.design",
+        "• Integrate a CRM With centralized database",
+        "• Create successful funnel for IDW product and service",
+        "• Integrate email marketing with database, and create automated workflow ",
+        "• Ads Optimization on Tagging, Retargeting and Segmentation for Google and Facebook",
+        "• CDN and Web Optimization page speed and Google Search Engine Rank",
+        "• Setup and establish SEO",
+        "• Manage and Setup for Digital Marketing: - Google Ads - Facebook Ads",
+        "    ",
+      
+        "KEY ACHIEVEMENT:",
+        "• Sale page for design collection that generate RM850,000 to this date (Dec 2022)",
+        "• The pandemic company cannot run any project, and incoming leads are overwhelming so we decided to create a booking system where users have to pay 1000 per session for 1 hour. Successful collect 135 slot in 3 month resulting in total RM135,000",
+        "• Dream Homes calculator, automated bill of quantity, this quick way to create a bill of quantity and save production time",
+        "• Successful landing making 7 keyphrase first rank organically",
+        "• Reach out to 7 Million People and 549,517 engagement all over Malaysia through Google ads",
+        "• 60k Active user throughout the year is using IDW website",
+  
       ],
     },
 
@@ -81,20 +91,18 @@ export const info = {
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    github: "https://github.com/harisishar",
+    email: "harisishar@gmail.com",
+    linkedin: "https://www.linkedin.com/in/harisishar/",
   },
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: " ",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/harisishar",
+      
     },
   ],
 };
