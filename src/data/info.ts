@@ -12,6 +12,8 @@ export const info = {
       startDate: "JULY 2021",
       endDate: "PRESENT",
       description: [
+        "Transformed IDW into Malaysia's pioneering Interior Design Technology company by building a cross-functional team, developing the IDW Super App, streamlining the design process, improving communication, and continuously monitoring and improving the technology success.",
+
         "• Conduct research and analysis to understand the current technology landscape in interior design and identify opportunities for IDW to differentiate itself.",
         "• Build a cross•functional team with expertise in technology, design, and project management to lead the development of the IDW Super App.",
         "• Lead a project plan that includes clear milestones, timelines, and budget to ensure the app is delivered on time and within budget.",
@@ -53,41 +55,45 @@ export const info = {
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Information Technology",
+      location: "MZ Future Global, Bangi",
+      startDate: "SEPTEMBER 2018",
+      endDate: "JANUARY 2021",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "Develop, design and monitor the company website mzcatering.com. This website provides an e-commerce section that sells company products such as booking events, packages, Kekuih (Kuih frozen) and Retort products. MZ Catering website also provides an affiliate program to users, whereby they can earn a commission by sharing our unique product link. mzfutureglobal.com is basically an e-company profile that provides corporate information. This website also aims for collaborative partnerships.",
+        "Content creator, shoot product photography and video for marketing purposes.",
+        "Filming and editing video of the event space in order to emphasize the environment venue and facilities provided by the company/venue owner.",
+        "Plan and implement new approaches for marketing strategy such as Google SEO, Google business (providing user experience using 360 photos, reviews and locations), Facebook Pixel, Shoppe.",
+        "Kept employees up and running on the latest Windows software. and hardware.",
+        "Instruct and guide multimedia internship; including hands-on training.",
+        "KEY ACHIEVEMENT",
+        "Improved overall media concept by setting up the guide for filming and editing.",
+        "Improved incoming lead to 30% (80+- to 230 +-) by creating a new concept of Media content.",
+        "Implemented SEO website as one of the important approaches to google engine.This company was based on Food and Beverages, this company also providing wedding package, event package, event space and cafe. My job scope varied depending on the project.",
+        "Develop, design and monitor the company website mzcatering.com. This website provides an e-commerce section that sells company products such as booking events, packages, Kekuih (Kuih frozen) and Retort products. MZ Catering website also provides an affiliate program to users, whereby they can earn a commission by sharing our unique product link. mzfutureglobal.com is basically an e-company profile that provides corporate information. This website also aims for collaborative partnerships.",
+     
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Bachelor in Computer Science, Software engineering",
+      location: "Universiti Teknologi Malaysia",
+      startDate: "APRIL 2020",
+      endDate: "PRESENT",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "skills to develop and maintain software systems. Combining computer science, math, and engineering, it covers design, programming, testing, and project management. Graduates can work as developers, engineers, or analysts in various industries. They solve complex problems, design innovative solutions, and build cutting-edge software applications",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
+      name: "Diploma in Electronic and Information Technology",
+      location: "German-Malaysian Institute",
+      startDate: "JUNE 2015",
+      endDate: "JULY 2018",
+      description: ["electronic and information technology covers electronic circuits, digital systems, communication networks, and information systems"],
     },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
+  
   ],
 
   socialMedia: {
@@ -98,11 +104,27 @@ export const info = {
 
   projects: [
     {
-      title: " ",
+      title: "IDW Super APP",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/harisishar",
+      thumbnail: "https://superapp.idw.design/static/media/mck11.9f412c817f545b84502f.png",
+      githubUrl: "https://application.idw.design/",
       
     },
+    {
+      title: "Design Personalizer",
+      isFeatured: true,
+      thumbnail: "https://idw.design/wp-content/uploads/2023/03/ipad-pro-psd-mockup-copy.png",
+      githubUrl: "http://personalizer.idw.design",
+      
+    },
+    {
+      title: "Directory",
+      isFeatured: true,
+      thumbnail: "https://idw.design/wp-content/uploads/2023/05/directory.png",
+      githubUrl: "http://directory.idw.design",
+      
+    },
+    
+ 
   ],
 };
