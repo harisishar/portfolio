@@ -21,8 +21,17 @@ export const info = {
         "• Implement a robust information transfer system to ensure all team members and clients have access to the latest information and designs.",
         "• Improve communication by integrating all communication channels (WhatsApp, Facebook, and Instagram, Website) into one platform.",
         "• Continuously monitor and evaluate the success of the IDW Super App, making improvements as needed. Note: This is a high-level overview and further details would need to be developed based on the specific requirements and challenges of IDW.",
-        "• Segmentation audience and analyst successful client pattern"
-
+        "• Segmentation audience and analyst successful client pattern",
+        "• Monitoring Asana for project management and daily task tracking",
+        "• Using notion for product, service and project documentation",
+        "KEY ACHIEVEMENT:",
+        "• Generating over 1476 lead, that converted into 45 Interior Design project and cumulatively into RM21 Million throughout 2022 year",
+        "",
+        "",
+        "",
+        "",
+        
+        
       ],
     },
 
